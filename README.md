@@ -1,16 +1,10 @@
 # hangman
 
-A new Flutter project.
+![Screenshot_1703525740](https://github.com/DevByShahzaib/Hangman-Game/assets/108393358/b8246ea0-219a-4172-82c9-e1cca7ac19b6)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+![Screenshot_1703525804](https://github.com/DevByShahzaib/Hangman-Game/assets/108393358/9756a6ba-bf09-45ab-a00c-ed875d829685)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Screenshot_1703525821](https://github.com/DevByShahzaib/Hangman-Game/assets/108393358/66975f49-f258-4009-a88a-0432294b3141)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
